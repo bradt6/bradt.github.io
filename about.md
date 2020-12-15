@@ -2,6 +2,10 @@
 layout: default
 title: About
 ---
-# About page
+# About me
 
-This page tells you a little bit about me.
+My name is Brad. This is a blog about the various activities in my life be it courses, recommendations, random thoughts or things I just find interesting. This blog is a destination where I can jot various notes down with the hope of reinforcing my learning and potentially helping others along the way.
+
+Im currently on a journey into the realm of software trying to learn its many intricacies. My desire is to learn how to build, maintain and ship applications which are sought after.
+
+This blog is set up as an experiment to keep me accountable for trying to continually learn new things.
