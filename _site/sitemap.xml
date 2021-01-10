@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://localhost:4000/notes/2021-01-9-note.html</loc>
+<lastmod>2021-01-09T00:00:00+11:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/2020/10/23/bananas.html</loc>
 <lastmod>2020-10-23T00:00:00+11:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/2020/10/24/apples.html</loc>
+<loc>http://localhost:4000/work/code/2020/10/24/apples.html</loc>
 <lastmod>2020-10-24T00:00:00+11:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/2020/10/25/kiwifruit.html</loc>
 <lastmod>2020-10-25T00:00:00+11:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/exotic%20fruit/2020/12/18/strawberry.html</loc>
+<lastmod>2020-12-18T00:00:00+11:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/about.html</loc>
@@ -22,6 +30,6 @@
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/notes.html</loc>
+<loc>http://localhost:4000/note.html</loc>
 </url>
 </urlset>
